@@ -59,11 +59,11 @@ Make sure your Mac terminal has basic command-line access utilities configured. 
 
 ```bash
 # 1. Clone your standalone repository layout
-git clone https://github.com
+[git [clone https://github.com](https://github.com/blackhatethicalhacking/2Dto3D-Video-Converter-for-VR.git)](https://github.com/blackhatethicalhacking/2Dto3D-Video-Converter-for-VR.git)
 cd 2Dto3D-Video-Converter-for-VR
 
 # 2. Grant explicit execution clearances to script components
-chmod +x setup.sh convert3d.sh
+chmod +x setup.sh converter3d_by_saintdrug.sh
 
 # 3. Fire up the automated dependencies installer environment
 ./setup.sh
@@ -78,7 +78,7 @@ chmod +x setup.sh convert3d.sh
 Once the installation routine is finished, running conversions becomes a single-command process:
 
 ```bash
-./convert3d.sh
+./converter3d_by_saintdrug.sh
 ```
 
 1. Select option `1` on your keyboard and hit Enter.
