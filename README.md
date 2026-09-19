@@ -1,4 +1,4 @@
-# 2D to 3D Video Converter for VR
+# 2Dto3D-Video-Converter-for-VR
 ### **Developed & Maintained by SaintDruG**
 
 An advanced, zero-friction AI pipeline engineered specifically for macOS to instantly transform standard flat 2D videos into high-fidelity Side-by-Side (SBS) 3D formats. 
@@ -60,7 +60,7 @@ Make sure your Mac terminal has basic command-line access utilities configured. 
 ```bash
 # 1. Clone your standalone repository layout
 git clone https://github.com
-cd YOUR_REPO_NAME
+cd 2Dto3D-Video-Converter-for-VR
 
 # 2. Grant explicit execution clearances to script components
 chmod +x setup.sh convert3d.sh
